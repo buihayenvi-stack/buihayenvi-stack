@@ -19,10 +19,11 @@
 </p>
 
 <p align="center">
-  <b>Full-stack Developer · AI Enthusiast · Problem Solver</b>
+  <b>Full-stack Developer · Algorithm enthusiast · Problem Solver</b>
 </p>
 
 <p align="center">
+  I'm currently a 3rd year IT student, passionate about algorithms and application programming. Other skills are still being improved.
   I build practical applications, explore intelligent systems, and turn ideas into clean, scalable software.
 </p>
 
