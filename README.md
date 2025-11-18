@@ -5,7 +5,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=BuiHaYenVi&show_icons=true&theme=radical" />
     </td>
     <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buihayenvi-stack&layout=compact&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical" />
       <br>
       <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
         <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
