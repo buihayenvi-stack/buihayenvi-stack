@@ -9,7 +9,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   </a>
 </div>
+
 <h1 align="center">Hi, I'm Vi 👋</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tiếng_Việt-Native-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tiếng_Đức-Second_Language-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tiếng_Anh-Additional_Language-orange?style=for-the-badge" />
+</p>
 
 <p align="center">
   <b>Full-stack Developer · AI Enthusiast · Problem Solver</b>
