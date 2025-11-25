@@ -34,7 +34,8 @@
 - Passionate about **AI, Machine Learning, and C#/.NET Development**
 - Strong interest in **software architecture, clean code, and system design**
 - Constantly exploring new technologies to improve engineering craft
-- Currently working on: **Emotion Recognition AI, WinForms Applications, and C# Projects**
+- Selected Projects: **Emotion Recognition AI, CTF CHALLENGE** (Paddown-AES-CBC+fixed IV, Key Reuse Attacks (XOR), RSA(Cube Root Attack, Bleichenbacher-style, Coppersmith, Fermat Factorization))
+- Currently working on: **WinForms Applications, and C# Projects**
 
 ---
 
